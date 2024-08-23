@@ -1,0 +1,61 @@
+.a1 h1 {
+    
+    justify-content: center;
+
+}
+
+.a2 {
+    display: flex;
+    position: relative;
+
+    height: 30px;
+    width: 30px;
+gap: 20px;
+}
+
+.a3 {
+    display: flex;
+    position: relative;
+    height: 30px;
+    width: 30px;
+    gap: 20px;
+    padding-top: 20px;
+}
+
+.a4 {
+    display: flex;
+    position: relative;
+    height: 30px;
+    width: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+.a5 {
+    display: flex;
+    position: relative;
+    height: 100px;
+    width:40%;
+    padding-top: 20px;
+
+}
+.a6{
+   
+    background-image: linear-gradient(25deg, #0066f5, #2886f0, #2ba5ea, #11c4e4);
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    width: 50%;
+    left: 20%;
+}
+.a7{
+    background-image: linear-gradient(25deg, #ae5a33, #c68d47, #dbc05b, #edf471);
+    
+    border: solid 2px linear-gradient(25deg, #ae5a33, #c68d47, #dbc05b, #edf471) ;
+    border-radius: 50px;
+    margin-top: 20px;
+    
+}
